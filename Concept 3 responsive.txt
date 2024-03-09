@@ -1,0 +1,9 @@
+For making site responsite i write simply.
+
+Ans:-
+ @media (max-width:600px){
+    div{
+display:flex;
+flex-direction:column;
+    };
+  }

@@ -1,0 +1,14 @@
+Q1.<p>Basic <br>
+  <span style="font-size:50px;font-weight:bold">$9.99/month</span></p>
+
+Ans:- span tag highlights the content and inline css make it bold and increases its size.
+
+Q2.How to make content bold in CSS?
+Ans: font-weight makes the content bold.
+
+Q3.how to give color to buttons?
+Ans <button class="button"> Sign up </button>
+then give property to button
+.button{
+background-color:oranged;
+}

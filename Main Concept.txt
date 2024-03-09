@@ -1,0 +1,18 @@
+Q1. How to make the three separate content block comes into the center of the screen?
+Ans:- 
+display:flex;
+justify-content:center;
+align-items:center;   (it works only when display:flex is written)
+height:100vh;   
+
+Q2.how to give gap between separate content block?
+Ans:- gap:10px
+
+Q3. What is the difference between 2rem and 2em size?
+Ans: Do it yourself.
+
+Q4.how to make the content comes in the center?
+Ams: justify-content:center;          (flex-start,flex-end,baseline)
+
+Q5Notes:- whenever we use flex or grid then it automatically becomes responsive website?
+    
